@@ -76,6 +76,10 @@ file is not part of this repository.
 - The poster was read back at full size and every headline checked for
   legibility: masthead, all three feature headlines, the two US headlines,
   and all six briefs are legible with no clipping or overlap.
+- Parent verification (19 Nov 2026): the copier was run three more times
+  into fresh output dirs — all byte-identical to the repo entry.png — and
+  all five repo blobs were verified against the local files after the
+  GitHub push.
 
 ## Files
 
